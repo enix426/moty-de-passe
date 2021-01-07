@@ -37,7 +37,7 @@ class vadiation{
 
         
         if(!preg_match('/[0-9]/',$chiffre)){
-            echo "il vous faux un chiffre";
+            echo "il vous faut un chiffre";
         }
 
     }
